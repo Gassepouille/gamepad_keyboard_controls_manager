@@ -22,7 +22,7 @@ In your render loop, update your controls and after that, you can do whatever yo
 </script>
 ```
 
-As you see, the updateGControls function return an object gamepad (Xbox Controller) :
+As you can see, the updateGControls function return an object gamepad (Xbox Controller) :
 
 ```html
 <script>
