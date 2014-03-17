@@ -70,3 +70,5 @@ There is an alternative with keyboard if you don't have a Xbox pad or you discon
 	r2:	"H",
 	start: "Enter",
 	select: "Space",
+
+Don't forget to init your gamepad by touching a button while testing
